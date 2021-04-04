@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tiagooliveira95&theme=darkhub&margin-w=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagooliveira95&show_icons=true&theme=radical)
+
+
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagooliveira95&langs_count=8&layout=compact&hide=Jupyter%20Notebook,html)](https://github.com/tiagooliveira95/github-readme-stats)
+
+
 
 <!--
 **tiagooliveira95/tiagooliveira95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
